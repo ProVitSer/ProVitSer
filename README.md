@@ -22,4 +22,25 @@
 ![Gitlab CI](https://camo.githubusercontent.com/caf02f914c6a2a7fe431841aa629d545637ae65e289ee57cba6d7a51e6fb509e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746c616225323063692d2532333138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465)
 ![Elasticsearch](https://camo.githubusercontent.com/a9de0eb3700c2fa9ad1aaab0c5b1e284de4d3b5fd11a43079aa58cc420368aca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456c61737469635365617263682d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d656c6173746963736561726368)
 
+🐶 My pet-projects  
+
+[PBX API Control](https://github.com/ProVitSer/pbx-api-control)  
+
+**PBX API Control** is a simple example of a **gRPC API** implementation for the **3CX PBX system**.
+
+
+[Bigland](https://github.com/ProVitSer/bigland) 
+
+An **integration of IP PBX systems** like **Asterisk** and **FreePBX** with **AmoCRM**, featuring **Call management**,  **Smart call routing**, **API for PBX system interaction** and other
+
+
+[Call Magnet Front](https://github.com/ProVitSer/call-magnet-front) & [PAC Backend](https://github.com/ProVitSer/pac)  
+
+A comprehensive solution for integrating the **3CX system** with various services and tools. Key features include:  
+- **CRM integration** to streamline customer management and call handling.  
+- **SMS service integration** for sending notifications and confirmations.  
+- Integration with **Voximplant** and other AI bots to enable intelligent voice services.  
+- **Call data collection and analysis** to improve customer service quality.  
+- **Speech-to-text conversion** using **Yandex SpeechKit** for easier data analysis.  
+- **IVR menu generation** for automating incoming calls.  
 
