@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Vitaliy
 
-🇩🇪 Based in Belgrade, Serbia  
+🇷🇸 Based in Belgrade, Serbia  
 🤖 Coding for over 6 years, primarily in JavaScript/TypeScript, with occasional work in Go.  
 🚀 Passionate about pet projects — they’ve been my key to continuous growth throughout my career.  
 🕿 Experienced VoIP Engineer — skilled in configuring, debugging, and developing solutions for telephony and IP PBX systems like Asterisk, FreeSWITCH, and 3CX.  
